@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calculatedwildfire or Riley :) 
 - 👀 I’m interested in coding, art, and always thinking and learning! 
 - 🌱 I’m currently learning Java, JS, and CSS
-- 💞️ I’m looking to collaborate on nothing, for the moment. 
+- 💞️ I’m looking to collaborate on a Harry Potter dueling game- artists and developers both needed  
 - 📫 How to reach me- brotatochipthe@gmail.com! 
 
 <!---
